@@ -7,9 +7,9 @@
 
 🧠 I'm currently learning React, Node.js, Insomnia and Database (SQL and SQLite)
 
-🦾 I'm looking to collaborate on exciting projects
+🔎 I'm looking to collaborate on exciting projects
 
-🔎 I'm looking for a job
+🦾 I'm open to work
 
 📫 You can reach me on stivenleite@gmail.com or +55 91 984743094 (whatsapp)
 
