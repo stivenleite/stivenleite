@@ -5,7 +5,7 @@
 
 👨🏽‍💻 I'm currently working on some personal projects to improve my front-end development skills
 
-🧠 I'm currently learning React, Node.js, Insomnia and Database (SQL and SQLite)
+🧠 I'm currently learning React, Node.js and Database (SQL and SQLite)
 
 🔎 I'm looking to collaborate on exciting projects
 
