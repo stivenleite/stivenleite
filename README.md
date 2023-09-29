@@ -3,7 +3,7 @@
 
 
 
-👨🏽‍💻 I'm currently working on some personal projects to improve my front-end development skills
+👨🏽‍💻 I'm currently working on some personal projects to improve my full-stack development skills
 
 🧠 I'm currently learning React, Node.js and Database (SQL and SQLite)
 
@@ -11,7 +11,7 @@
 
 🦾 I'm open to work
 
-📫 You can reach me on stivenleite@gmail.com or +55 91 984743094 (whatsapp)
+📫 You can reach me on stivenleite@gmail.com or +1 506 238 1470 (whatsapp)
 
 
 <br>
